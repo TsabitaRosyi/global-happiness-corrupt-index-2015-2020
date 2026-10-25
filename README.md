@@ -35,4 +35,10 @@ Proyek ini mengimplementasikan bahasa pemrograman **Python** melalui **VS Code**
 * **Korelasi dengan CPI & Kesehatan:** Skor CPI dan kesehatan memiliki korelasi positif yang **sedang** terhadap tingkat kebahagiaan, yang mengindikasikan bahwa transparansi/anti-korupsi serta fasilitas kesehatan yang baik merupakan pilar penting dalam mewujudkan masyarakat yang bahagia[cite: 21, 25].
 
 ---
-
+## 📂 Struktur Repository
+```text
+├── dataset/                  # Berisi file CSV dan Excel (World_Happiness_Cleaning)
+├── notebooks/                # Script Jupyter / Python (.ipynb / .py)
+├── dashboard/                # Kode aplikasi Dash interaktif
+├── Laporan_PJBL.docx         # Laporan lengkap proyek akhir
+└── README.md
