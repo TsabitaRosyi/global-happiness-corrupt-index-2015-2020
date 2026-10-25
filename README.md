@@ -37,8 +37,8 @@ Proyek ini mengimplementasikan bahasa pemrograman **Python** melalui **VS Code**
 ---
 ## 📂 Struktur Repository
 ```text
-├── dataset/                  # Berisi file CSV dan Excel (World_Happiness_Cleaning)
-├── notebooks/                # Script Jupyter / Python (.ipynb / .py)
-├── dashboard/                # Kode aplikasi Dash interaktif
-├── Laporan_PJBL.docx         # Laporan lengkap proyek akhir
+├── World_Happiness_Cleaning.xlsx /                  # Berisi file CSV dan Excel (World_Happiness_Cleaning)
+├── CODING.ipynb/                                    # Script Jupyter / Python (.ipynb / .py)
+├── dashboard/                                      # Kode aplikasi Dash interaktif
+├── Tampilan Presentasi.pdf                          # Laporan lengkap proyek akhir
 └── README.md
